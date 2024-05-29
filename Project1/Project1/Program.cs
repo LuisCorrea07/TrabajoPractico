@@ -14,7 +14,7 @@ namespace Project1
     {
         static void Main()
         {
-            string filePath = "C:\\Users\\luis_\\source\\repos\\Project1\\Project1\\persona1.png"; // Ruta de imagen
+            string filePath = "C:\\Users\\luis_\\source\\repos\\Project1\\Project1\\circulo.png"; // Ruta de imagen
 
             // Convertir la imagen a un vector binario
             int[] inputPattern = ConvertImageToPattern(filePath);
